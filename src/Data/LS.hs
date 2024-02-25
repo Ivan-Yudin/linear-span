@@ -3,7 +3,7 @@
 {-#  LANGUAGE  FunctionalDependencies  #-}
 {-#  LANGUAGE  MultiParamTypeClasses   #-}
 
-module Data.LS (LS(..),Term(),simplify,(.*)) where
+module Data.LS (LS(..),Term(..),simplify,(.*)) where
 
 import Prelude hiding (head)
 
